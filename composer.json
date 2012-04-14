@@ -19,6 +19,6 @@
         "php": ">=4.0.0"
     },
     "autoload": {
-        "classmap": { "Console_Color": "" }
+        "classmap": [ "Color.php" ]
     }
 }
