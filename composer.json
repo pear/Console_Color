@@ -1,0 +1,24 @@
+{
+    "name": "pear/Console_Color",
+    "type": "library",
+    "description": "This Class allows you to easily use ANSI console colors in your application.",
+    "keywords": [ "console", "pear" ],
+    "homepage": "http://pear.php.net/package/Console_Color/",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Stefan Walk",
+            "homepage": "http://pear.php.net/user/et"
+        },
+        {
+            "name": "Scott Mattocks",
+            "homepage": "http://pear.php.net/user/scottmattocks"
+        }
+    ],
+    "require": {
+        "php": ">=4.0.0"
+    },
+    "autoload": {
+        "classmap": { "Console_Color": "" }
+    }
+}
